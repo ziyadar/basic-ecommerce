@@ -1,0 +1,27 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 1px 1px;
+    padding: 50px;
+    background-color: bisque;
+
+}
+input{
+    height: 30px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: rosybrown;
+    height: 30px;
+    border: none;
+
+    
+
+}
